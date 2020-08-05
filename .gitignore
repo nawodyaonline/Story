@@ -1,0 +1,8 @@
+file1.txt
+file2.txt
+file3.txt
+
+#This is a comment
+
+#  *.txt  
+#All text extention will ignore
